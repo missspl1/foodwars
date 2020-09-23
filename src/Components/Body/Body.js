@@ -1,5 +1,5 @@
 import React from 'react'
-import * as signalR from '@aspnet/signalr';
+import * as signalR from '@microsoft/signalr';
 import * as API from '../../Helpers/APIRequest';
 import Restaurants from './Restaurants'
 import Versus from './VersusAnimation'
