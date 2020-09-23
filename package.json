@@ -34,7 +34,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start --env.API_URL=https://foodwar.azurewebsites.net/",
-    "build": "react-scripts build --env.API_URL=https://foodwar.azurewebsites.net/",
+    "build": "react-scripts build && cp build/index.html build/404.html --env.API_URL=https://foodwar.azurewebsites.net/",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
