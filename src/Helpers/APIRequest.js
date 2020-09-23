@@ -84,7 +84,7 @@ export const delete_request = 'DELETE';
 
 export async function RequestAPI(requestType, url, data)
 {
-  url = process.env.API_URL + url
+  url = 'https://foodwar.azurewebsites.net/' + url
     switch(requestType)
     {
         case post_request:

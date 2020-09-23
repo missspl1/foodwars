@@ -33,7 +33,7 @@ class Body extends React.Component {
         };
         // create Connection
          this.connection = new signalR.HubConnectionBuilder()
-        .withUrl("https://localhost:44314/votehub", options)
+        .withUrl("https://foodwar.azurewebsites.net/votehub", options)
         .withHubProtocol(new signalR.JsonHubProtocol())
         .build();
 
