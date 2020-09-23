@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81be7bb594d9cec7c3be70fab96b0570",
+    "revision": "f58432ccfd4ae7761a80bfac64aa2f14",
     "url": "/foodwars/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodwars/static/css/2.99a5358a.chunk.css"
   },
   {
-    "revision": "cf8b85f5b35ba15bf1df",
+    "revision": "f0546473dd45e38ceae1",
     "url": "/foodwars/static/css/main.7c99f0f6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodwars/static/js/2.582828e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf8b85f5b35ba15bf1df",
-    "url": "/foodwars/static/js/main.e3f91536.chunk.js"
+    "revision": "f0546473dd45e38ceae1",
+    "url": "/foodwars/static/js/main.cf64c775.chunk.js"
   },
   {
     "revision": "3bfcafb81995e2cdfee0",
