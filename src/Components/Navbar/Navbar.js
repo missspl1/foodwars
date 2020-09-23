@@ -75,7 +75,7 @@ class Navbar extends React.Component {
                     
                                 <Col >
                                     <Link to='/' style={{ color: 'white' }}>
-                                       <b>FoodWar</b> <TrophyOutlined color='YELLOW'/>
+                                       <b>FoodWars</b> <TrophyOutlined color='YELLOW'/>
                                     </Link>
                                 </Col>
                                 <Col  span={10}>
