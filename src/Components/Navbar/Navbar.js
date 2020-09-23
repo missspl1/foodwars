@@ -57,7 +57,7 @@ class Navbar extends React.Component {
                               <Row justify="space-around" style={style} align='middle'  >
                                 <Col>  
                                 <Link to='/' style={{ color: 'white' }}>
-                                 <b>FoodWar </b>  <TrophyOutlined color='YELLOW'/>
+                                 <b>FoodWars </b>  <TrophyOutlined color='YELLOW'/>
                                     </Link>
                                     </Col>
     
