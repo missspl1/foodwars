@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/foodwars/static/css/main.7c99f0f6.chunk.css",
+    "main.js": "/foodwars/static/js/main.e3f91536.chunk.js",
+    "main.js.map": "/foodwars/static/js/main.e3f91536.chunk.js.map",
+    "runtime-main.js": "/foodwars/static/js/runtime-main.8422b8c8.js",
+    "runtime-main.js.map": "/foodwars/static/js/runtime-main.8422b8c8.js.map",
+    "static/css/2.99a5358a.chunk.css": "/foodwars/static/css/2.99a5358a.chunk.css",
+    "static/js/2.582828e0.chunk.js": "/foodwars/static/js/2.582828e0.chunk.js",
+    "static/js/2.582828e0.chunk.js.map": "/foodwars/static/js/2.582828e0.chunk.js.map",
+    "index.html": "/foodwars/index.html",
+    "precache-manifest.a7197f0910143cc01d52d7139ee87a58.js": "/foodwars/precache-manifest.a7197f0910143cc01d52d7139ee87a58.js",
+    "service-worker.js": "/foodwars/service-worker.js",
+    "static/css/2.99a5358a.chunk.css.map": "/foodwars/static/css/2.99a5358a.chunk.css.map",
+    "static/css/main.7c99f0f6.chunk.css.map": "/foodwars/static/css/main.7c99f0f6.chunk.css.map",
+    "static/js/2.582828e0.chunk.js.LICENSE.txt": "/foodwars/static/js/2.582828e0.chunk.js.LICENSE.txt",
+    "static/media/pierogi.png": "/foodwars/static/media/pierogi.ef8116aa.png",
+    "static/media/pizza.png": "/foodwars/static/media/pizza.dcd32a97.png",
+    "static/media/vs.png": "/foodwars/static/media/vs.79798418.png",
+    "static/media/whole.png": "/foodwars/static/media/whole.a0ed8654.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8422b8c8.js",
+    "static/css/2.99a5358a.chunk.css",
+    "static/js/2.582828e0.chunk.js",
+    "static/css/main.7c99f0f6.chunk.css",
+    "static/js/main.e3f91536.chunk.js"
+  ]
+}
