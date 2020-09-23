@@ -12,7 +12,7 @@ const renderer = ({ hours, minutes, seconds, completed }) => {
 class Info extends React.Component {
     date(){
       var today = new Date();
-      let time = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate() + ' 20:55';
+      let time = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate() + ' 9:55';
       return time
     }
     render(){
